@@ -1,0 +1,14 @@
+<table class="AffiliationPanel LeftPanel" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="LeftPanelBar">
+        <div class="BarTitle">Affiliations:</div>    
+      </td>
+    </tr>
+    <tr>
+    <td>                   
+      <div class="DivInsideSpacer"></div>
+      <a href="http://s10.zetaboards.com/PRW/index/" target="_Blank"><img src="/Images/PRW.png" border="0" alt="Professional Wrestling" style="width: 86px; padding-right: 79px; padding-left: 10px;" /></a>                                 
+      <div class="DivInsideSpacer"></div>
+    </td>
+  </tr>
+</table> 
